@@ -1,1 +1,1 @@
-Testing Odin project with LINUX
+Testing Odin project on LINUX System
